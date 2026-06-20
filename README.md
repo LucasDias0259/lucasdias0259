@@ -34,12 +34,6 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/lucasdias0259/lucasdias0259/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=Linguagens%20De%20Programa%C3%A7%C3%A3o%20Que%20Utilizo" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="firefox logo"  />
   <img width="12" />
