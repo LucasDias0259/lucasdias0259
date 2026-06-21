@@ -1,6 +1,8 @@
 
 ###
 
+###
+
 <img width="1920" height="1080" alt="Captura de tela 2026-06-20 220504" src="https://github.com/user-attachments/assets/d8292b85-c2ed-477e-8e02-a9398838d183" />
 <h3 data-importer="techs" align="center"
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="firefox logo"  />
@@ -15,10 +17,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=24&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
+
 
 ###
 
@@ -46,3 +58,13 @@
 <h3 data-importer="text" align="center">🖥️ My WorkSpace</h3>
 
 <img width="1920" height="1080" alt="Captura de tela 2026-06-20 215219" src="https://github.com/user-attachments/assets/29f00ea7-1a43-4c9c-a501-f93348c6c6ea" />
+
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/lucasdias0259/lucasdias0259/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
