@@ -1,4 +1,13 @@
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Hi,%20There%20You%C2%B4re%20Welcome&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"/>
 
+</div>
+
+###
+<img width="1920" height="1080" alt="Captura de tela 2026-05-25 203221" src="https://github.com/user-attachments/assets/daadc62c-2e2e-4120-af44-c6e8ec973f39" />
+
+</div>
+<img width="12" />
 <img width="1920" height="1080" alt="Captura de tela 2026-06-20 220504" src="https://github.com/user-attachments/assets/d8292b85-c2ed-477e-8e02-a9398838d183" />
 <h3 data-importer="techs" align="center"
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="firefox logo"  />
@@ -26,12 +35,6 @@
   <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=24&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
-<br clear="both">
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasdias0259/lucasdias0259/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasdias0259/lucasdias0259/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasdias0259/lucasdias0259/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
 
 ###
 
@@ -46,11 +49,11 @@
 
 ###
 
-<h4 data-importer="text" align="left">🖥️ About Me(Sobre mim)<br><br>➡️ Estudante Acadêmico Buscando experiência na área de tecnologia com foco em se desenvolver e aprender sobre as áreas,  como Suporte De TI (help desk)  , e Adquirir Experiências e Base de Conhecimento Nas Áreas De Hardware e Software com Foco em Estudar Sobre IA(inteligência artificial) e DataScience(Ciência de Dados).<br><br>➡️ 2026 - Presente | Bacharelado em Sistema de Informação No Instituto Federal Catarinense (Cursando)<br><br>➡️ inglês intermediário(A1-A2) (Formado mas constantemente melhorando).<br><br>➡️Formado Em Montagem e Manutenção De Computadores<br>em (CASA Brasil) <br><br>➡️ Conhecimento em comandos CLI  e Ferramentas em sistemas operacionais Windows e LINUX , tenho facilidade em me adaptar <br>em qualquer sistema operacional.</h4>
+<h4 data-importer="text" align="left">🖥️ About Me(Sobre mim)<br>===========================================================================================<br>➡️ Estudante Acadêmico Buscando experiência na área de tecnologia com foco em se desenvolver e aprender sobre as áreas,  como Suporte De TI (help desk)  , e Adquirir Experiências e Base de Conhecimento Nas Áreas De Hardware e Software com Foco em Estudar Sobre IA(inteligência artificial) e DataScience(Ciência de Dados).<br>===========================================================================================<br>➡️ 2026 - Presente | Bacharelado em Sistema de Informação No Instituto Federal Catarinense (Cursando)<br><br>➡️ inglês intermediário(A1-A2) (Formado mas constantemente melhorando).<br><br>➡️Formado Em Montagem e Manutenção De Computadores<br>em (CASA Brasil) <br><br>➡️ Conhecimento em comandos CLI  e Ferramentas em sistemas operacionais Windows e LINUX , tenho facilidade em me adaptar <br>em qualquer sistema operacional.</h4>
 
 ###
 
-<h3 data-importer="text" align="left">💻 Main Skills (Minhas Habilidades)<br><br>➡️ 🧑‍💻Python Basic (Simple Problem´s)<br><br>➡️ Knowledge in Hardware and  Learning About software</h3>
+<h3 data-importer="text" align="left">💻 Main Skills (Minhas Habilidades)<br><br>➡️ 🧑‍💻Python Basic (Simple Problem´s)<br><br>➡️ Knowledge in Hardware and  Learning About software</h3>===========================================================================================
 
 ###
 
@@ -62,6 +65,4 @@
 <h3 data-importer="text" align="center">🖥️ My WorkSpace</h3>
 
 <img width="1920" height="1080" alt="Captura de tela 2026-06-20 215219" src="https://github.com/user-attachments/assets/29f00ea7-1a43-4c9c-a501-f93348c6c6ea" />
-
-
 
