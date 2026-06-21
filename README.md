@@ -1,24 +1,13 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=who%20am%20i?&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
 
 ###
 
-<div data-importer="image" align="center">
+<div data-importer="image" align="left">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXltd3UyOWR6Z2x0eGEzcTA5dzltcW80aDdmcDJ0MjdoMTd3bWllbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PZrjGkr334fXa/giphy.gif"  />
 </div>
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&text=Visitors&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
-
 ###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:lucasdias0259?theme=miku&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
 ###
 
