@@ -56,3 +56,14 @@
 
 <img width="1920" height="1080" alt="Captura de tela 2026-06-20 215219" src="https://github.com/user-attachments/assets/29f00ea7-1a43-4c9c-a501-f93348c6c6ea" />
 
+
+
+# _TESTE COM LINGUAGEM MARKDOWN_
+*
+
+
+
+1 | 2 |
+---|--------
+Priemro Teste de liguagem markdown com tabela no github | primeiro teste|
+segundo teste com emoji | ✋|
