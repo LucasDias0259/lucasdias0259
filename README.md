@@ -48,7 +48,7 @@
 # ➡️ inglês intermediário(B1) (3 Anos De Inglês)
 # ➡️Formado Em Montagem e Manutenção De Computadores (Hardware E Software)<br>em (CASA Brasil) 
 # ➡️ Outras Skills 
-- # Faciliade Com Sistemas Windows e LINUX , tenho facilidade em me adaptar em qualquer sistema operacional
+- # Facilidade Com Sistemas Windows e LINUX , tenho facilidade em me adaptar em qualquer sistema operacional
 - # Conhecimento Em Comandos Via Terminal (CLI)
 - # Uso De Ferramentas Para Working And Studying
 # Programming Language 💻
